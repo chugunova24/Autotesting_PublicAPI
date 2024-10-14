@@ -1,24 +1,21 @@
-Авто тестирование_Тестовое задание_Чугунова Татьяна
+Автотестирование публичного API (https://jsonplaceholder.typicode.com)
 ==============
 
 
 # Примечание <a name="Check-list"></a>
 Предполагается, что Вы используете Unix/Linux систему.
 
-Заранее извиняюсь за название репозитория: GitHub не позволяет
-использовать кириллицу и пробелы в названиях репозиториев.
-
 ### Первые шаги:
 Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/chugunova24/Auto_testing_Test_task_Chugunova_Tatyana.git
+git clone https://github.com/chugunova24/Autotesting_PublicAPI.git
 ```
 
 Зайдите в папку проекта:
 
 ```bash
-cd Auto_testing_Test_task_Chugunova_Tatyana
+cd Autotesting_PublicAPI
 ```
 
 Создайте виртуальное окружение:
